@@ -1,7 +1,7 @@
 
-![viewfinal](https://user-images.githubusercontent.com/109727844/204102879-086fee63-9bda-43b2-a1aa-49879c3f2d39.jpg)
+![c1](https://github.com/asalyaraki/counter/assets/155806762/9b27c52c-5c36-4ace-a846-06bf3d3020e5)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![c2](https://github.com/asalyaraki/counter/assets/155806762/bca071ba-8107-43e5-92ff-120d3ede3466)
 
 - [Demo Project](https://asalyaraki.github.io/counter/)
 
